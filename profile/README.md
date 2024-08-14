@@ -1,4 +1,10 @@
 ## Ethnos360
+[Ethnos360.org](https://ethnos360.org/)
+
+## Ethnos360 Germany
+
+[Ethnos360.de](https://ethnos360.de/)
+On Github: [Ethnos360de](https://github.com/ethnos360de)
 
 <!--
 
